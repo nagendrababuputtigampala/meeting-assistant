@@ -1,0 +1,11 @@
+# Configuration and domain-model dependencies.
+pydantic>=2.10,<3
+pydantic-settings>=2.7,<3
+python-dotenv>=1.0,<2
+
+# Workflow and provider integrations.
+langgraph>=1.0,<2
+langchain-core>=1.0,<2
+langchain-ollama>=1.0,<2
+langchain-google-genai>=4.0,<5
+langchain-openai>=1.0,<2

@@ -1,0 +1,11 @@
+Ravi: Let's review the checkout-service release planned for next week.
+Priya: Performance testing passed, but the deployment guide still needs updating.
+Elena: We decided to release version 2.4 on Tuesday using the staged rollout plan.
+Ravi: Priya, please update the deployment guide by Monday afternoon.
+Priya: I will finish it by Monday at 2 PM and send the link to the team.
+Marcus: Security found one medium-risk dependency in the payment adapter.
+Elena: We decided to patch that dependency before the release can proceed.
+Marcus: I will prepare and validate the dependency patch by Friday.
+Ravi: Someone needs to notify customer support about the staged rollout by Monday.
+Priya: I will also draft the rollback checklist, but the deadline is still open.
+Elena: We will confirm release readiness in Monday's engineering stand-up.
